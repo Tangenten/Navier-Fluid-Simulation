@@ -1,3 +1,3 @@
 # 2D Fluid simulation using Navier-Stokes equations
 
-![Alt Text](https://github.com/Tangenten/Navier-Fluid-Simulation/blob/main/naiver.gif?raw=true)
+![Alt Text](https://github.com/Tangenten/Navier-Fluid-Simulation/blob/main/navier.gif?raw=true)
